@@ -66,7 +66,7 @@ Por último, me gustaría comentar que todas las actividades me han resultado mu
 Si tuviese que comentar algo negativo, quizá sería el hecho de que con Adobe XD al principio me encontraba un poco perdido a la hora de usarlo, pero esto se ha visto compensado con lo que he aprendido haciendo uso de dicha herramienta.
 
 # Caso de estudio: Web YUZIN.
-YUZIN CLUB CULTURAL es un proyecto que nació como una revista editada cada mes en la que se incluía información relativa a actividades culturales que se daban en algunas ciudades andaluzas. De esta manera, la web [YUZIN](www.yuzin.com) permitía descargar dicha revista en formato digital.
+YUZIN CLUB CULTURAL es un proyecto que nació como una revista editada cada mes en la que se incluía información relativa a actividades culturales que se daban en algunas ciudades andaluzas. De esta manera, la web YUZIN permitía descargar dicha revista en formato digital.
 
 Fue en 2020 cuando nace el proyecto Yuzin Club Cultural como una plataforma para la promoción de actividades culturales, en la que además de permitir la descarga de la revista, como se hacía en un inicio, toma el rol de club cultural, el cual permite suscribirse al mismo.
 
